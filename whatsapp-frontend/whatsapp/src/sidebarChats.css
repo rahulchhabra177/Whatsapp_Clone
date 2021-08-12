@@ -1,0 +1,19 @@
+.sidebarChats{
+display:flex;
+
+padding:20px;
+cursor: pointer;
+border-bottom: 2px solid brown;
+}
+
+.sidebarChats:hover{
+	background-color: blue;
+}
+.sidebarChats_info >h2{
+	margin-bottom:10px;
+	font-size: 18px;
+}
+
+.sidebarChats_info{
+	margin-left:20px;
+}
